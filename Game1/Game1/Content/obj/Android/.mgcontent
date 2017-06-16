@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/abcsong.mp3</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Background.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/ru_ButtonNewGame.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/ru_ButtonNewGamePressed.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/A.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/B.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/C.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/D.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/E.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/F.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/G.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/H.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/I.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/J.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/K.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/L.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/M.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/N.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/O.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/P.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/Q.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/R.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/S.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/T.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/U.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/V.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/W.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/X.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/Y.png</File>
+    <File>D:/Work/ABCMono/Game1/Game1/Content/Letters/Z.png</File>
+  </SourceFiles>
+</SourceFileCollection>
